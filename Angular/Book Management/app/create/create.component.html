@@ -1,0 +1,59 @@
+
+<section class="container" [ngClass]="{'shadow': bookForm.touched}">
+    <h1>BOOK APP</h1>
+    <h1>Create a new Book</h1>
+    
+    <form #bookForm="ngForm" (ngSubmit)="onBookFormSubmit(bookForm)" >
+      <div>
+        <input placeholder="Title" type="text" name="title" ngModel required #title="ngModel" />
+        <span *ngIf="title.invalid && (title.dirty || bookForm.submitted)" class="error">Title is required</span>
+      </div>
+      <br><br/>
+  
+      <div>
+        <input placeholder="Author" type="text" name="author" ngModel required #author="ngModel" />
+        <span *ngIf="author.invalid && (author.dirty || bookForm.submitted)" class="error">Author is required</span>
+      </div>
+      <br><br/>
+  
+      <div>
+        <input placeholder="Price" type="number" name="price" ngModel required #price="ngModel" />
+        <span *ngIf="price.invalid && (price.dirty || bookForm.submitted)" class="error">Price is required</span>
+      </div>
+      <br><br/>
+  
+      <div>
+        <input placeholder="Genre" type="text" name="genre" ngModel required #genre="ngModel" />
+        <span *ngIf="genre.invalid && (genre.dirty || bookForm.submitted)" class="error">Genre is required</span>
+      </div>
+      <br><br/>
+  
+      <div>
+        <input type="date" name="date" ngModel />
+      </div>
+      <br><br/>
+  
+      <div>
+        <input placeholder="Pages" type="number" name="pages" ngModel required #pages="ngModel" />
+        <span *ngIf="pages.invalid && (pages.dirty || bookForm.submitted)" class="error">Pages is required</span>
+      </div>
+      <br><br/>
+  
+      <div>
+        <input placeholder="Short Description" type="text" name="desc" ngModel required #desc="ngModel" />
+        <span *ngIf="desc.invalid && (desc.dirty || bookForm.submitted)" class="error">Description is required</span>
+      </div>
+      <br><br/>
+  
+      <div>
+        <input placeholder="Coverpage URL" type="url" name="curl" ngModel required #curl="ngModel" />
+        <span *ngIf="curl.invalid && (curl.dirty || bookForm.submitted)" class="error">Coverpage URL is required</span>
+      </div>
+      <br><br/>
+  
+      <button type="submit">SUBMIT</button>
+    </form>
+  </section>
+  
+
+  

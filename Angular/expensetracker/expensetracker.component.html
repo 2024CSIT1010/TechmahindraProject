@@ -1,0 +1,16 @@
+<h1>
+    TODO App
+</h1>
+<div class="CreatingSection">
+    <input   placeholder="Enter new expense" type="text" [(ngModel)]="expenseTitle"/>
+    <input type="date" placeholder="date" [(ngModel)]="expensedate" />
+    <button (click)= "create_Expense()" > Create task</button>
+</div>
+<div class="ShowingSection">
+    <ul>
+        <li *ngFor="let expense of allexpense;let i=index">
+            ID:{{expense.id}}   Title:{{expense.title}}    Date:{{expense.date}}
+            <button (click)="delete_Expense(i)">Delete</button>
+        </li>
+    </ul>
+</div>
