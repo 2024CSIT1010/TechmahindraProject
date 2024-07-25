@@ -1,0 +1,22 @@
+<!-- customers.component.html -->
+<div class="container mt-5">
+  <h2>Customers</h2>
+  <button class="btn btn-primary mb-3" (click)="addCustomer()">Add Customer</button>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let customer of customers">
+        <td>{{ customer.name }}</td>
+        <td>
+          <button class="btn btn-success" (click)="editCustomer(customer)">Edit</button>
+          <button class="btn btn-danger" (click)="deleteCustomer(customer.id)">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,33 @@
+<div>
+  <h2>Service Representative Management</h2>
+  
+  <!-- Form to add a new service representative -->
+  <form (ngSubmit)="addServiceRepresentative()" #serviceRepresentativeForm="ngForm">
+    <div>
+      <label for="firstName">First Name:</label>
+      <input type="text" id="firstName" required [(ngModel)]="newRepresentative.firstName" name="firstName" #firstName="ngModel">
+    </div>
+    <div>
+      <label for="lastName">Last Name:</label>
+      <input type="text" id="lastName" required [(ngModel)]="newRepresentative.lastName" name="lastName" #lastName="ngModel">
+    </div>
+    <div>
+      <label for="email">Email:</label>
+      <input type="email" id="email" required [(ngModel)]="newRepresentative.email" name="email" #email="ngModel">
+    </div>
+    <div>
+      <label for="phone">Phone:</label>
+      <input type="tel" id="phone" required [(ngModel)]="newRepresentative.phone" name="phone" #phone="ngModel">
+    </div>
+    <button type="submit" [disabled]="serviceRepresentativeForm.invalid">Add Service Representative</button>
+  </form>
+
+  <!-- List of existing service representatives -->
+  <ul>
+    <li *ngFor="let representative of serviceRepresentatives">
+      {{ representative.firstName }} {{ representative.lastName }}
+      <button (click)="openEditServiceRepresentativeDialog(representative)">Edit</button>
+      <button (click)="deleteServiceRepresentative(representative.serviceRepresentativeId)">Delete</button>
+    </li>
+  </ul>
+</div>

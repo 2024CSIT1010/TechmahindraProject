@@ -1,0 +1,26 @@
+<!-- vehicles.component.html -->
+<div class="container mt-5">
+  <h2>Vehicles</h2>
+  <button class="btn btn-primary mb-3" (click)="addVehicle()">Add Vehicle</button>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Model</th>
+        <th>Status</th>
+        <th>Service Date</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let vehicle of vehicles">
+        <td>{{ vehicle.model }}</td>
+        <td>{{ vehicle.status }}</td>
+        <td>{{ vehicle.serviceDate | date }}</td>
+        <td>
+          <button class="btn btn-success" (click)="editVehicle(vehicle)">Edit</button>
+          <button class="btn btn-danger" (click)="deleteVehicle(vehicle.id)">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
