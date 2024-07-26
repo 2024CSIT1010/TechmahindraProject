@@ -1,0 +1,24 @@
+<!-- work-items.component.html -->
+<div class="container mt-5">
+  <h2>Work Items</h2>
+  <button class="btn btn-primary mb-3" (click)="addWorkItem()">Add Work Item</button>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Cost</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let workItem of workItems">
+        <td>{{ workItem.name }}</td>
+        <td>${{ workItem.cost }}</td>
+        <td>
+          <button class="btn btn-success" (click)="editWorkItem(workItem)">Edit</button>
+          <button class="btn btn-danger" (click)="deleteWorkItem(workItem.id)">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

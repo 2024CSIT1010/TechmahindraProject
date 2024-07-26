@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Migrations\\20240726075629_Changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VehicleManagement\\Migrations\\20240726075629_Changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\deepa\\source\\repos\\vehiclemanagement\\vehiclemanagement\\vehicledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\vehicledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\deepa\\source\\repos\\vehiclemanagement\\vehiclemanagement\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\deepa\\source\\repos\\vehiclemanagement\\vehiclemanagement\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\deepa\\source\\repos\\vehiclemanagement\\vehiclemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\deepa\\source\\repos\\vehiclemanagement\\vehiclemanagement\\controllers\\servicerepresentative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\controllers\\servicerepresentative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\deepa\\source\\repos\\vehiclemanagement\\vehiclemanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\deepa\\source\\repos\\vehiclemanagement\\vehiclemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\deepa\\source\\repos\\vehiclemanagement\\vehiclemanagement\\migrations\\20240724081752_seeddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\migrations\\20240724081752_seeddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\deepa\\source\\repos\\vehiclemanagement\\vehiclemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\deepa\\source\\repos\\vehiclemanagement\\vehiclemanagement\\vehiclemanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\vehiclemanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\deepa\\source\\repos\\vehiclemanagement\\vehiclemanagement\\migrations\\20240722100335_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\migrations\\20240722100335_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\deepa\\source\\repos\\vehiclemanagement\\vehiclemanagement\\migrations\\vehicledbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9A185A-32A4-45D5-9188-AD1D47764EE0}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\migrations\\vehicledbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240726075629_Changes.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Migrations\\20240726075629_Changes.cs",
+              "RelativeDocumentMoniker": "VehicleManagement\\Migrations\\20240726075629_Changes.cs",
+              "ToolTip": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Migrations\\20240726075629_Changes.cs",
+              "RelativeToolTip": "VehicleManagement\\Migrations\\20240726075629_Changes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:56:29.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-26T04:47:56.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "VehicleManagement\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Entities\\User.cs",
+              "RelativeToolTip": "VehicleManagement\\Entities\\User.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA2wCQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T14:53:16.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "VehicleManagement\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "VehicleManagement\\Controllers\\VehicleController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T04:50:11.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\VehicleDbContext.cs",
+              "RelativeDocumentMoniker": "VehicleManagement\\VehicleDbContext.cs",
+              "ToolTip": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\VehicleDbContext.cs",
+              "RelativeToolTip": "VehicleManagement\\VehicleDbContext.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T14:57:59.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceRepresentative.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Controllers\\ServiceRepresentative.cs",
+              "RelativeDocumentMoniker": "VehicleManagement\\Controllers\\ServiceRepresentative.cs",
+              "ToolTip": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Controllers\\ServiceRepresentative.cs",
+              "RelativeToolTip": "VehicleManagement\\Controllers\\ServiceRepresentative.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:22:26.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Program.cs",
+              "RelativeToolTip": "VehicleManagement\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAWwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:04:39.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "VehicleManagement\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "VehicleManagement\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T18:36:45.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "VehicleManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\appsettings.json",
+              "RelativeToolTip": "VehicleManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T15:06:27.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240724081752_SeedDB.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Migrations\\20240724081752_SeedDB.cs",
+              "RelativeDocumentMoniker": "VehicleManagement\\Migrations\\20240724081752_SeedDB.cs",
+              "ToolTip": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Migrations\\20240724081752_SeedDB.cs",
+              "RelativeToolTip": "VehicleManagement\\Migrations\\20240724081752_SeedDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:17:53.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VehicleManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VehicleManagement\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T14:14:18.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VehicleManagement.http",
+              "DocumentMoniker": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\VehicleManagement.http",
+              "RelativeDocumentMoniker": "VehicleManagement\\VehicleManagement.http",
+              "ToolTip": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\VehicleManagement.http",
+              "RelativeToolTip": "VehicleManagement\\VehicleManagement.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-20T15:04:37.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240722100335_InitialDB.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Migrations\\20240722100335_InitialDB.cs",
+              "RelativeDocumentMoniker": "VehicleManagement\\Migrations\\20240722100335_InitialDB.cs",
+              "ToolTip": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Migrations\\20240722100335_InitialDB.cs",
+              "RelativeToolTip": "VehicleManagement\\Migrations\\20240722100335_InitialDB.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAAwM4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:03:36.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VehicleDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Migrations\\VehicleDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "VehicleManagement\\Migrations\\VehicleDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\deepa\\source\\repos\\VehicleManagement\\VehicleManagement\\Migrations\\VehicleDbContextModelSnapshot.cs",
+              "RelativeToolTip": "VehicleManagement\\Migrations\\VehicleDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:04:09.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
