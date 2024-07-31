@@ -1,0 +1,37 @@
+/* Toolbar styling */
+mat-toolbar {
+  background-color: #f0f0f0; /* Light grey background for the toolbar */
+  color: #333; /* Dark text color for better readability */
+  padding: 0 16px; /* Add padding for spacing */
+  border-top: 1px solid #ddd; /* Light border for separation */
+  height: 60px; /* Fixed height for the toolbar */
+  align-items: center; /* Center items vertically */
+}
+
+/* Spacer to push items to the right */
+.spacer {
+  flex: 1 1 auto;
+}
+
+/* Copyright section styling */
+.copyright {
+  display: flex;
+  align-items: center;
+  gap: 8px; /* Spacing between text and icon */
+}
+
+/* Button styling */
+button[mat-icon-button] {
+  color: #333; /* Dark color for the icon */
+}
+
+/* Icon styling */
+mat-icon {
+  font-size: 20px; /* Size of the icon */
+  color: #333; /* Dark color for the icon */
+}
+
+/* Override default toolbar color */
+mat-toolbar[color="primary"] {
+  background-color: #e0e0e0 !important; /* Grey background for primary color */
+}
