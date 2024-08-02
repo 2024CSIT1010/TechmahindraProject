@@ -1,0 +1,84 @@
+/* Style for mat-card */
+mat-card {
+  background-color: #f5f5f5; /* Light gray background for the card */
+   /* Path to your car background image */
+  background-size: cover; /* Cover the entire card with the image */
+  background-position: center; /* Center the image within the card */
+  border-radius: 12px; /* Rounded corners */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Light shadow for subtle depth */
+  padding: 20px; /* Padding inside the card */
+  margin: 20px auto; /* Center card horizontally */
+  max-width: 400px; /* Limit the card width */
+  text-align: center; /* Center-align text inside the card */
+  color: #ffffff; /* White text color to stand out against the background image */
+}
+
+/* Style for card header */
+mat-card-header {
+  margin-bottom: 20px; /* Space below the header */
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for better text visibility */
+  padding: 10px; /* Padding around header text */
+  border-radius: 8px; /* Rounded corners for the header background */
+}
+
+/* Style for card title */
+mat-card-title {
+  font-size: 24px; /* Larger font size for the title */
+  font-weight: 700; /* Bold text for emphasis */
+  color: #ffffff; /* White text color for better contrast */
+}
+
+/* Style for form fields */
+mat-form-field {
+  width: 100%; /* Full width for form fields */
+  margin-bottom: 20px; /* Space between fields */
+}
+
+/* Style for form field labels */
+mat-form-field mat-label {
+  color: #ffffff; /* White text color for labels */
+}
+
+/* Style for input fields */
+mat-form-field input[matInput] {
+  font-size: 16px; /* Comfortable font size */
+  padding: 12px; /* Padding inside input fields */
+  border-radius: 4px; /* Slightly rounded corners */
+  border: 1px solid #bdbdbd; /* Medium gray border */
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for input fields */
+  color: #ffffff; /* White text color for input fields */
+}
+
+/* Style for error messages */
+mat-error {
+  color: #d32f2f; /* Red color for error messages */
+}
+
+/* Style for password visibility toggle */
+button[mat-icon-button] {
+  color: #ffffff; /* White icon color */
+}
+
+/* Style for mat-card-actions */
+mat-card-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center items horizontally */
+  margin-top: 20px; /* Space above actions */
+}
+
+/* Style for action buttons */
+button[mat-raised-button] {
+  background-color: #757575; /* Medium gray button color */
+  color: #ffffff; /* White text color */
+  border-radius: 25px; /* Rounded corners */
+  font-size: 16px; /* Comfortable font size */
+  padding: 10px 20px; /* Padding inside the button */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+  transition: background-color 0.3s, transform 0.3s; /* Smooth transitions */
+}
+
+button[mat-raised-button]:hover {
+  background-color: #616161; /* Darker gray on hover */
+  transform: translateY(-2px); /* Slight lift effect on hover */
+}
